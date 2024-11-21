@@ -1,0 +1,114 @@
+[
+    {
+        "uuid": "b89ec735-85f5-45d7-8f58-b8e0e7f60d9b",
+        "titre": "Le Monde Actuel",
+        "editeur": "Éditions Horizon",
+        "frequence_publication": "Hebdomadaire",
+        "numero_parution": 345,
+        "date_publication": "2024-11-01"
+    },
+    {
+        "uuid": "d3f7a4e2-6fd9-476f-85c5-7b1e8e2d5403",
+        "titre": "L'Observateur des Temps",
+        "editeur": "Presses Universelles",
+        "frequence_publication": "Mensuelle",
+        "numero_parution": 102,
+        "date_publication": "2024-11-02"
+    },
+    {
+        "uuid": "abf9c34d-b2f8-40b8-a72b-b4eeb0fcbf73",
+        "titre": "Éclair du Matin",
+        "editeur": "Maison du Soleil",
+        "frequence_publication": "Quotidienne",
+        "numero_parution": 4882,
+        "date_publication": "2024-11-03"
+    },
+    {
+        "uuid": "a15b3f53-593d-4c9d-a354-bc8d4f4e1a1a",
+        "titre": "Voix du Nord",
+        "editeur": "Société du Nord",
+        "frequence_publication": "Hebdomadaire",
+        "numero_parution": 267,
+        "date_publication": "2024-11-04"
+    },
+    {
+        "uuid": "3f12e3d1-9a2f-4565-9574-06c8932354a5",
+        "titre": "Le Progrès",
+        "editeur": "Presses du Sud",
+        "frequence_publication": "Mensuelle",
+        "numero_parution": 520,
+        "date_publication": "2024-11-05"
+    },
+    {
+        "uuid": "7f4c9e4f-6e51-44bb-b865-c5ab10b1bc2f",
+        "titre": "Le Réflexe",
+        "editeur": "Média Éditions",
+        "frequence_publication": "Quotidienne",
+        "numero_parution": 1192,
+        "date_publication": "2024-11-06"
+    },
+    {
+        "uuid": "c4e0a125-44db-4314-b440-6b5c63eebef3",
+        "titre": "Le Journal de la Cité",
+        "editeur": "Éditions Cité Médias",
+        "frequence_publication": "Hebdomadaire",
+        "numero_parution": 80,
+        "date_publication": "2024-11-07"
+    },
+    {
+        "uuid": "e36a7f5e-7137-4ff0-828d-26eeb5ccbf28",
+        "titre": "L'Écho de la Terre",
+        "editeur": "Éditions Verdoyantes",
+        "frequence_publication": "Mensuelle",
+        "numero_parution": 200,
+        "date_publication": "2024-11-08"
+    },
+    {
+        "uuid": "b05b2137-07b5-4fe6-b771-f8c4a736dca9",
+        "titre": "Le Temps Moderne",
+        "editeur": "Média International",
+        "frequence_publication": "Quotidienne",
+        "numero_parution": 7342,
+        "date_publication": "2024-11-09"
+    },
+    {
+        "uuid": "9e4e73c2-6f76-43d2-b45c-45e3d73c23c9",
+        "titre": "La Voie du Vent",
+        "editeur": "Société des Vents",
+        "frequence_publication": "Hebdomadaire",
+        "numero_parution": 150,
+        "date_publication": "2024-11-10"
+    },
+    {
+        "uuid": "b27d33d3-9070-4ccf-8b4c-0b4f42d6ff1a",
+        "titre": "La Parole Écrite",
+        "editeur": "La Plume Éditions",
+        "frequence_publication": "Mensuelle",
+        "numero_parution": 91,
+        "date_publication": "2024-11-11"
+    },
+    {
+        "uuid": "c90cfc4f-d65e-40b3-9ea1-97446be0f7b9",
+        "titre": "Les Nouvelles du Monde",
+        "editeur": "Éditions Globales",
+        "frequence_publication": "Quotidienne",
+        "numero_parution": 8764,
+        "date_publication": "2024-11-12"
+    },
+    {
+        "uuid": "5a7e5a21-3b34-48f7-b2c1-5e2a88be4042",
+        "titre": "Le Voyageur",
+        "editeur": "Méditerranée Médias",
+        "frequence_publication": "Hebdomadaire",
+        "numero_parution": 150,
+        "date_publication": "2024-11-13"
+    },
+    {
+        "uuid": "ac62b8b3-f39d-43bb-bb10-0f1f5c46a647",
+        "titre": "L'Inattendu",
+        "editeur": "Média Mystique",
+        "frequence_publication": "Mensuelle",
+        "numero_parution": 50,
+        "date_publication": "2024-11-14"
+    }
+]

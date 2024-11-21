@@ -1,0 +1,142 @@
+[
+    {
+        "uuid": "f1a5d34e-bd80-4c7e-b06a-b6223fdbbabc",
+        "titre": "Magazine Horizon",
+        "editeur": "Éditions Nova",
+        "frequence": "Mensuel",
+        "numero_parution": 102
+    },
+    {
+        "uuid": "a4c0fe31-4c2e-465a-bc61-f7728b87f43b",
+        "titre": "Le Monde Digital",
+        "editeur": "Digital Press",
+        "frequence": "Bimensuel",
+        "numero_parution": 54
+    },
+    {
+        "uuid": "c01e23f4-8042-432d-86d0-91b97032d405",
+        "titre": "Science Aujourd'hui",
+        "editeur": "Futuriste Média",
+        "frequence": "Trimestriel",
+        "numero_parution": 35
+    },
+    {
+        "uuid": "e25a3f99-e52a-462f-85fe-8e50d67f9067",
+        "titre": "Culture Pop",
+        "editeur": "PopArts",
+        "frequence": "Mensuel",
+        "numero_parution": 78
+    },
+    {
+        "uuid": "bb7556d9-c086-4188-8d92-b398cdb0a724",
+        "titre": "Inspiration Design",
+        "editeur": "Créatif Design",
+        "frequence": "Bimensuel",
+        "numero_parution": 21
+    },
+    {
+        "uuid": "ab5e5084-13e1-4c6d-b89b-fc4280e6c96c",
+        "titre": "Le Journal de la Mode",
+        "editeur": "Haute Couture",
+        "frequence": "Mensuel",
+        "numero_parution": 112
+    },
+    {
+        "uuid": "f4d8bde0-c6f6-46c0-9255-fdc2c0e2c3c0",
+        "titre": "Tech et Innovation",
+        "editeur": "TechnoHub",
+        "frequence": "Trimestriel",
+        "numero_parution": 17
+    },
+    {
+        "uuid": "ba2d654e-d380-47a7-9121-370d825f6b1b",
+        "titre": "Voyage & Aventure",
+        "editeur": "Globetrotter Editions",
+        "frequence": "Mensuel",
+        "numero_parution": 66
+    },
+    {
+        "uuid": "dd5c9a76-e8c2-4703-8b69-89ec5c50d3c9",
+        "titre": "Cuisine du Monde",
+        "editeur": "Epicure Média",
+        "frequence": "Bimensuel",
+        "numero_parution": 45
+    },
+    {
+        "uuid": "d3f58a9a-cbf5-4fc0-ae7f-b90e45177b4d",
+        "titre": "L'Actualité Politique",
+        "editeur": "Politica Press",
+        "frequence": "Hebdomadaire",
+        "numero_parution": 128
+    },
+    {
+        "uuid": "c32bbf35-b7cd-4667-bb13-3d42090dbcf1",
+        "titre": "Magazine Santé",
+        "editeur": "Santé Plus",
+        "frequence": "Mensuel",
+        "numero_parution": 97
+    },
+    {
+        "uuid": "ad12b4db-94bc-4fba-b441-6503b1e5183c",
+        "titre": "Eco & Avenir",
+        "editeur": "Green World Media",
+        "frequence": "Trimestriel",
+        "numero_parution": 62
+    },
+    {
+        "uuid": "2e9c6b1a-efb7-4bc4-84b7-7c6e3a25bb38",
+        "titre": "Art & Création",
+        "editeur": "Atelier d'Art",
+        "frequence": "Bimensuel",
+        "numero_parution": 39
+    },
+    {
+        "uuid": "6232ecb4-c6e4-4f7f-89b3-598ca7e9c95b",
+        "titre": "L'Histoire Vivante",
+        "editeur": "Histoire Presse",
+        "frequence": "Mensuel",
+        "numero_parution": 23
+    },
+    {
+        "uuid": "fe992ab7-c1ea-4b57-aef8-1e7a0e4641f3",
+        "titre": "Geek World",
+        "editeur": "Tech Zone",
+        "frequence": "Bimensuel",
+        "numero_parution": 75
+    },
+    {
+        "uuid": "2fd0875e-1168-47d2-9068-9efb3e1f3b32",
+        "titre": "Sport & Passion",
+        "editeur": "Sportive Media",
+        "frequence": "Mensuel",
+        "numero_parution": 59
+    },
+    {
+        "uuid": "2b7d5201-b33c-4d8c-a74e-9e9cd9bb3e3d",
+        "titre": "Architectures et Espaces",
+        "editeur": "Espaces Design",
+        "frequence": "Trimestriel",
+        "numero_parution": 18
+    },
+    {
+        "uuid": "ca27c68d-57c2-4720-a0a0-2490e053db0f",
+        "titre": "Cinéma et Culture",
+        "editeur": "Vision Films",
+        "frequence": "Mensuel",
+        "numero_parution": 83
+    },
+    {
+        "uuid": "3bada512-f4f9-48e4-a8c0-82c899c39c5c",
+        "titre": "Musique Actuelle",
+        "editeur": "SoundWorld",
+        "frequence": "Bimensuel",
+        "numero_parution": 27
+    },
+    {
+        "uuid": "7b0b81ba-5f7b-4f72-82b0-7178d8d19fbb",
+        "titre": "Développement Personnel",
+        "editeur": "Mindset Media",
+        "frequence": "Mensuel",
+        "numero_parution": 114
+    }
+]

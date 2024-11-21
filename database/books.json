@@ -1,0 +1,352 @@
+[
+    {
+        "id": "efbefbce-7d9a-4ecb-b3fd-f3f41e3fc08d",
+        "titre": "Le Parfum",
+        "auteur": "J.K. Rowling",
+        "pages": 449,
+        "genre": "Philosophique"
+    },
+    {
+        "id": "91631448-d332-4fc7-9169-854267b6a9b9",
+        "titre": "La Servante écarlate",
+        "auteur": "Charles Dickens",
+        "pages": 540,
+        "genre": "Fantastique"
+    },
+    {
+        "id": "edbb7a28-bca9-4a5b-9d22-b96584456905",
+        "titre": "Germinal",
+        "auteur": "Charles Dickens",
+        "pages": 378,
+        "genre": "Romance"
+    },
+    {
+        "id": "aa4c85ca-46c8-4344-a5f1-7f6f86aec912",
+        "titre": "Le Meilleur des mondes",
+        "auteur": "Jane Austen",
+        "pages": 129,
+        "genre": "Fantasy"
+    },
+    {
+        "id": "02506f0f-8404-490c-941d-d859bcd766f6",
+        "titre": "Les Contes de Grimm",
+        "auteur": "Jules Verne",
+        "pages": 989,
+        "genre": "Philosophique"
+    },
+    {
+        "id": "dcd273e0-0e87-497f-bc64-7a54f879ac4c",
+        "titre": "Le Nom de la Rose",
+        "auteur": "Stephen King",
+        "pages": 882,
+        "genre": "Policier"
+    },
+    {
+        "id": "ead20545-3608-4e43-b5d0-eeba3cd5f29b",
+        "titre": "La Métamorphose",
+        "auteur": "Albert Camus",
+        "pages": 525,
+        "genre": "Fantastique"
+    },
+    {
+        "id": "45c52279-037f-4cef-8860-2e924ebb9dbb",
+        "titre": "Le Nom de la Rose",
+        "auteur": "Umberto Eco",
+        "pages": 241,
+        "genre": "Aventure"
+    },
+    {
+        "id": "dd988d3d-d6fc-4dc8-9801-005801643e31",
+        "titre": "Anna Karénine",
+        "auteur": "Ernest Hemingway",
+        "pages": 400,
+        "genre": "Romance"
+    },
+    {
+        "id": "1c65d855-f88f-4afa-8244-2680ec1192e5",
+        "titre": "Don Quichotte",
+        "auteur": "Haruki Murakami",
+        "pages": 155,
+        "genre": "Classique"
+    },
+    {
+        "id": "035d79f4-4490-42b8-844a-205ce1b87abf",
+        "titre": "Les Fleurs du mal",
+        "auteur": "Stendhal",
+        "pages": 741,
+        "genre": "Classique"
+    },
+    {
+        "id": "4df0c998-5b47-4fae-bca3-3b2ccc1caa19",
+        "titre": "L'Odyssée",
+        "auteur": "Jules Verne",
+        "pages": 607,
+        "genre": "Science-fiction"
+    },
+    {
+        "id": "44732903-a371-4ea2-9c6a-a2f1cb135367",
+        "titre": "Candide",
+        "auteur": "Margaret Atwood",
+        "pages": 907,
+        "genre": "Fantasy"
+    },
+    {
+        "id": "92ae0810-ec2d-4803-a9b9-74a85fc4e02b",
+        "titre": "Le Jardin secret",
+        "auteur": "Agatha Christie",
+        "pages": 428,
+        "genre": "Classique"
+    },
+    {
+        "id": "766c40f7-671e-42d4-ae5d-67a358f9496b",
+        "titre": "Le Château",
+        "auteur": "Stephen King",
+        "pages": 309,
+        "genre": "Fantastique"
+    },
+    {
+        "id": "af2f4daa-d890-4e05-a063-8f45852bf84b",
+        "titre": "Crime et Châtiment",
+        "auteur": "Jane Austen",
+        "pages": 765,
+        "genre": "Science-fiction"
+    },
+    {
+        "id": "56d44033-f6ea-4e39-b46e-85227d3da70c",
+        "titre": "Le Nom de la Rose",
+        "auteur": "Haruki Murakami",
+        "pages": 597,
+        "genre": "Fantasy"
+    },
+    {
+        "id": "388f214c-7477-4523-81d5-a9e53a550ba3",
+        "titre": "Dune",
+        "auteur": "Emily Brontë",
+        "pages": 242,
+        "genre": "Romance"
+    },
+    {
+        "id": "7db2d6f8-0277-448b-8cf1-e89b042892c5",
+        "titre": "Le Jardin secret",
+        "auteur": "Jules Verne",
+        "pages": 188,
+        "genre": "Classique"
+    },
+    {
+        "id": "f103ae24-e4b2-4d63-b16c-c32adbbff52e",
+        "titre": "Le Comte de Monte-Cristo",
+        "auteur": "Umberto Eco",
+        "pages": 526,
+        "genre": "Romance"
+    },
+    {
+        "id": "8760e242-b1a3-45db-bb10-d0d5c74f187f",
+        "titre": "Dune",
+        "auteur": "Isaac Asimov",
+        "pages": 644,
+        "genre": "Aventure"
+    },
+    {
+        "id": "a86ea094-a1b1-408b-ba64-a22402c18456",
+        "titre": "Dracula",
+        "auteur": "Honoré de Balzac",
+        "pages": 418,
+        "genre": "Romance"
+    },
+    {
+        "id": "b95f271b-0eb6-4fbf-b11f-549de4a796a2",
+        "titre": "Moby Dick",
+        "auteur": "Alexandre Dumas",
+        "pages": 387,
+        "genre": "Horreur"
+    },
+    {
+        "id": "24cb6688-a3b4-4425-a5dc-825966a26294",
+        "titre": "Crime et Châtiment",
+        "auteur": "Charles Dickens",
+        "pages": 712,
+        "genre": "Fantasy"
+    },
+    {
+        "id": "7b73bf5d-3645-44a9-a615-2b51cfd4a7ac",
+        "titre": "Le Comte de Monte-Cristo",
+        "auteur": "Ernest Hemingway",
+        "pages": 108,
+        "genre": "Classique"
+    },
+    {
+        "id": "8c934ff0-7607-4e0d-93d8-fb2c2e7f1469",
+        "titre": "Les Rivières pourpres",
+        "auteur": "Stendhal",
+        "pages": 317,
+        "genre": "Science-fiction"
+    },
+    {
+        "id": "2d5a9658-3d72-4f2e-8e29-92c66f877712",
+        "titre": "Voyage au centre de la Terre",
+        "auteur": "Miguel de Cervantes",
+        "pages": 649,
+        "genre": "Aventure"
+    },
+    {
+        "id": "af683c95-21ed-4c24-9506-26d5afa1e4fa",
+        "titre": "Le Nom de la Rose",
+        "auteur": "Jules Verne",
+        "pages": 368,
+        "genre": "Fantastique"
+    },
+    {
+        "id": "94044c63-0929-4f42-b520-99d134429976",
+        "titre": "Le Parfum",
+        "auteur": "Ray Bradbury",
+        "pages": 189,
+        "genre": "Horreur"
+    },
+    {
+        "id": "6ed2fceb-8027-435d-95f9-1219e2d71f94",
+        "titre": "Les Misérables",
+        "auteur": "Margaret Atwood",
+        "pages": 149,
+        "genre": "Horreur"
+    },
+    {
+        "id": "4b4cc786-b72b-4895-81e9-124aecfbdf08",
+        "titre": "Le Jardin secret",
+        "auteur": "Victor Hugo",
+        "pages": 709,
+        "genre": "Roman"
+    },
+    {
+        "id": "7e43a513-0816-4118-b515-51b710223a5a",
+        "titre": "Harry Potter à l'école des sorciers",
+        "auteur": "Haruki Murakami",
+        "pages": 885,
+        "genre": "Fantasy"
+    },
+    {
+        "id": "465140df-25ad-42d2-95a2-38a759ae1e46",
+        "titre": "Les Hauts de Hurlevent",
+        "auteur": "Haruki Murakami",
+        "pages": 231,
+        "genre": "Philosophique"
+    },
+    {
+        "id": "5939a34e-19b6-4d41-b7b7-1f68dfc934de",
+        "titre": "Les Rivières pourpres",
+        "auteur": "Agatha Christie",
+        "pages": 231,
+        "genre": "Fantastique"
+    },
+    {
+        "id": "f71fdebe-6e01-4a14-a8a4-e7731bfa72f5",
+        "titre": "Moby Dick",
+        "auteur": "Arthur Conan Doyle",
+        "pages": 236,
+        "genre": "Aventure"
+    },
+    {
+        "id": "9f29b8f3-e1e4-4a03-b064-ba019c2a69ad",
+        "titre": "Jane Eyre",
+        "auteur": "Arthur Conan Doyle",
+        "pages": 338,
+        "genre": "Policier"
+    },
+    {
+        "id": "532dc569-069c-4ba8-b855-6978701e7e3f",
+        "titre": "Les Frères Karamazov",
+        "auteur": "Arthur Conan Doyle",
+        "pages": 891,
+        "genre": "Science-fiction"
+    },
+    {
+        "id": "dc832684-b021-4bad-af3a-849209f25eab",
+        "titre": "La Peste",
+        "auteur": "Charles Dickens",
+        "pages": 101,
+        "genre": "Aventure"
+    },
+    {
+        "id": "db32e2c7-d485-4ead-b5f5-93d1632d288a",
+        "titre": "L'Alchimiste",
+        "auteur": "Honoré de Balzac",
+        "pages": 140,
+        "genre": "Aventure"
+    },
+    {
+        "id": "a549580c-aa25-4b9e-9ea5-4ac2d45248bc",
+        "titre": "Dracula",
+        "auteur": "Agatha Christie",
+        "pages": 332,
+        "genre": "Science-fiction"
+    },
+    {
+        "id": "5ecca095-f55d-41b1-9c16-1c883a7ee6bc",
+        "titre": "L'Appel de la forêt",
+        "auteur": "J.K. Rowling",
+        "pages": 605,
+        "genre": "Science-fiction"
+    },
+    {
+        "id": "67242f93-25d4-4419-98bc-ef31fcda6423",
+        "titre": "La Servante écarlate",
+        "auteur": "Paulo Coelho",
+        "pages": 508,
+        "genre": "Fantastique"
+    },
+    {
+        "id": "89c79d8f-a684-4be4-8342-bbcbab614adf",
+        "titre": "L'Odyssée",
+        "auteur": "J.K. Rowling",
+        "pages": 970,
+        "genre": "Fantastique"
+    },
+    {
+        "id": "42b4035c-86d2-408e-b9dc-723489252d81",
+        "titre": "L'Alchimiste",
+        "auteur": "Ernest Hemingway",
+        "pages": 837,
+        "genre": "Philosophique"
+    },
+    {
+        "id": "c21fb4ab-f3a5-4feb-8d1b-d73824f05958",
+        "titre": "L'Appel de la forêt",
+        "auteur": "Honoré de Balzac",
+        "pages": 892,
+        "genre": "Philosophique"
+    },
+    {
+        "id": "ff61eee7-7305-4562-9cdd-112aaa4ee643",
+        "titre": "Moby Dick",
+        "auteur": "Jules Verne",
+        "pages": 275,
+        "genre": "Science-fiction"
+    },
+    {
+        "id": "b50d9b53-3785-41f8-a9d5-0c57e74adedd",
+        "titre": "Le Parfum",
+        "auteur": "Paulo Coelho",
+        "pages": 496,
+        "genre": "Policier"
+    },
+    {
+        "id": "92766f2a-5ee8-4e82-9dfe-61fc5753b2d1",
+        "titre": "La Servante écarlate",
+        "auteur": "Jane Austen",
+        "pages": 155,
+        "genre": "Philosophique"
+    },
+    {
+        "id": "795b57e0-c09e-424c-ac54-0785d3bb147e",
+        "titre": "Anna Karénine",
+        "auteur": "Emily Brontë",
+        "pages": 798,
+        "genre": "Aventure"
+    },
+    {
+        "id": "8f6e6935-4e46-4c46-bc67-c6c8510fa855",
+        "titre": "American Gods",
+        "auteur": "Honoré de Balzac",
+        "pages": 890,
+        "genre": "Horreur"
+    }
+]
